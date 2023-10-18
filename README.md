@@ -170,8 +170,7 @@ counting of visitors to this page in this section started from May 8, 2022
 
 ## Star History
 
-![https://star-history.com/#https:/&arch3rPro/Pentest-Windows&Date](https://star-history.com/#https:/&arch3rPro/Pentest-Windows&Date)
-
+[![Star History Chart](https://api.star-history.com/svg?repos=arch3rPro/Pentest-Windows&type=Date)](https://star-history.com/#arch3rPro/Pentest-Windows&Date)
 
 
 ### Profile Views
