@@ -25,8 +25,6 @@
 
 
 
-
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=arch3rPro/Pentest-Windows&type=Date)](https://star-history.com/#arch3rPro/Pentest-Windows&Date)
-
+[![Star History Chart](https://api.star-history.com/svg?repos=arch3rPro/Pentest-Windows,arch3rPro/PentestTools&type=Date)](https://star-history.com/#arch3rPro/Pentest-Windows&arch3rPro/PentestTools&Date)
